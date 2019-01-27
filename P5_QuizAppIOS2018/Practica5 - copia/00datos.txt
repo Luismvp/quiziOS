@@ -1,0 +1,5 @@
+G819
+Luis Martín de Vidales Palomero
+Verónica Santos Pulpón
+
+Los favoritos se hacen y deshacen en la pantalla de cada pregunta con un botón en forma de estrella vacío que al hacer la pregunta favorita pasa a rellenarse como una estrella dorada indicando que esa pregunta es favorita y viceversa. 
